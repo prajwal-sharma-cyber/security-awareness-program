@@ -1,0 +1,5 @@
+metric,baseline,target
+Training completion,70%,95%
+Suspicious email reporting,20%,60%
+MFA adoption,75%,100%
+Average reporting time,24 hours,2 hours
